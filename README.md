@@ -1,23 +1,14 @@
 # To-Do App
 
-This is a simple To-Do app built using HTML, CSS, and JavaScript. You can view the live version of the app [here](https://todoappyuva.netlify.app/).
+Check out my live To-Do app on Netlify:
+
+[Live Demo](https://todoappyuva.netlify.app/)
+
+## Description
+This is a simple To-Do app built using HTML, CSS, and JavaScript. It helps users manage their daily tasks efficiently with a clean and responsive interface.
 
 ## Features
-
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
+- Add new tasks  
+- Mark tasks as completed  
+- Delete tasks  
 - Simple and responsive UI
-
-## Tech Stack
-
--Frontend: HTML, CSS, JavaScript
-
-## Installation
-
-To get a copy of the project up and running on your local machine for development and testing, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/todo-app.git
